@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  
+  assembled_matrix = 
   
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
